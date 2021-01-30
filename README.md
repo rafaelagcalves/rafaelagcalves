@@ -7,7 +7,9 @@ Previously, I worked as an air hostess. It was a great experience, but I felt li
 I am currently studying at 4Geeks Academy to become a Full-Stack developer and pursue my dream job. I am always eager to learn more. 
 
  🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, PYTHON, FLASK and MySQL
+ 
  👭🏽 I’m looking to collaborate on interesting projects.
+ 
  📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/rafaelagcalves) 💼
   - [Email](rafaelagcalves@gmail.com) 📧
