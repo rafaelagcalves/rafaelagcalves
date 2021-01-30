@@ -10,6 +10,7 @@ I am currently studying at 4Geeks Academy to become a Full-Stack developer and p
  
  📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/rafaelagcalves) <img alt="LinkedIn" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-  - [Email](rafaelagcalves@gmail.com) 📧
+  - [Email](<a href="mailto:rafaelagcalves@gmail.com" </a>) 📧
+
 
 
