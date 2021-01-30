@@ -9,7 +9,7 @@ I am currently studying at 4Geeks Academy to become a Full-Stack developer and p
  👭🏽 I’m looking to collaborate on interesting projects.
  
  📫 How to reach me
-  - <a href="mailto:rafaelagcalves@gmail.com"><img align="left" alt="Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-128.png" /></a>
+  - <a href="mailto:rafaelagcalves@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
 <a href="https://www.linkedin.com/in/rafaelagcalves/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a> 
 
 
