@@ -8,11 +8,11 @@ PROFESSIONAL SKILLS
 - Backend: Python, Flask, Django, Jinja, PostgreSQL, SQLAlchemy and API REST
 Tools: Git, Command line, Scrum, Kanban and Heroku
  
- 👭🏽 Always looking to collaborate on interesting projects.
+ Always looking to collaborate on interesting projects.
  
- 📫 How to reach me
-  - [LinkedIn](https://www.linkedin.com/in/rafaelagcalves) <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
-  - [Email](mailto:rafaelagcalves@gmail.com) <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
+CONTACT DETAILS
+- [<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/rafaelagcalves) 
+- [<img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/>](mailto:rafaelagcalves@gmail.com) 
 
 
 
