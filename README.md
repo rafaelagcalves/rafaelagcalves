@@ -1,16 +1,18 @@
 <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 I am a lover of Computer Science. This passion has led me to seek education in subjects such as web development, IT and object oriented programming, amongst other things. 
-Previously, I worked as an air hostess. It was a great experience, but I felt like I needed a change in my professional life. 
-I am currently studying at 4Geeks Academy to become a Full-Stack developer and pursue my dream job. Always eager to learn more. 
+Previously, I worked as an air hostess but I felt like I needed a change in my professional life. I am currently studying at 4Geeks Academy to become a Full-Stack developer and pursue my dream job. Always eager to learn more. 
 
- 🌱 I’m learning HTML, CSS, JAVASCRIPT, REACT, PYTHON, FLASK and MySQL
+PROFESSIONAL SKILLS
+- Fontend: HTML, CSS, Javascript, ReactJS, ReactHooks, Flux, Webpack, NPM,Bootstrap, Sass, BEM and MaterialUI
+- Backend: Python, Flask, Django, Jinja, PostgreSQL, SQLAlchemy and API REST
+Tools: Git, Command line, Scrum, Kanban and Heroku
  
  👭🏽 Always looking to collaborate on interesting projects.
  
  📫 How to reach me
-  - [LinkedIn](https://www.linkedin.com/in/rafaelagcalves) 💼
-  - [Email](mailto:rafaelagcalves@gmail.com) 📧
+  - [LinkedIn](https://www.linkedin.com/in/rafaelagcalves) <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+  - [Email](mailto:rafaelagcalves@gmail.com) <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
 
 
 
