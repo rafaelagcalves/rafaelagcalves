@@ -12,7 +12,7 @@ Tools: Git, Command line, Scrum, Kanban and Heroku
  
 CONTACT DETAILS
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rafaelagcalves)  [<img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png"/>](mailto:rafaelagcalves@gmail.com) 
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rafaelagcalves)           [<img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png"/>](mailto:rafaelagcalves@gmail.com) 
 
 
 
